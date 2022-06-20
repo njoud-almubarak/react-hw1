@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: antiquewhite;
+  margin-top: 30%;
+}
+
+
+
+.cat-img{
+  width: 250px;
+  height: 250px;
+}
+
+h1,h3{
+  text-align: center;
+  color: gray;
+}
+
